@@ -13,7 +13,7 @@
     {
       "owner": "Stremio",
       "repo": "stremio-web",
-      "latest": "v5.0.0-beta.31",
+      "latest": "v5.0.0-beta.43",
       "matrix": true,
       "default": true
     }

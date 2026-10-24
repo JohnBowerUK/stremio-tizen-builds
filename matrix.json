@@ -1,7 +1,7 @@
 {
   "include": [
     {
-      "tag": "v5.0.0-beta.31",
+      "tag": "v5.0.0-beta.43",
       "repository": "Stremio/stremio-web",
       "artifact_name": "Stremio",
       "tizen_template": "standard",
@@ -19,7 +19,7 @@
       "source_build": true
     },
     {
-      "tag": "v5.0.0-beta.31",
+      "tag": "v5.0.0-beta.43",
       "repository": "Stremio/stremio-web",
       "artifact_name": "Stremio-secondary",
       "tizen_template": "secondary",
